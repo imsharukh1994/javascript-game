@@ -1,0 +1,26 @@
+  body{
+
+        background-color: cadetblue;
+        margin-top: 10rem;
+        margin-left: 29rem;
+        font-size: 1rem;
+    }
+canvas {
+    
+    border:2px solid red;
+    background-color: #f1f1f1;
+}
+
+p{
+    text-align: left;
+    font-size: 1rem;
+    font-weight: 500;
+    color: white;
+}
+
+a{
+     background: white;
+     border-radius: 2rem;
+     font-size: 21px;
+     text-decoration: none;
+}
